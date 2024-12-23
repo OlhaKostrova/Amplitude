@@ -49,6 +49,7 @@ In conclusion, the retention rate is quite good, as it is not close to zero, and
 
 The dashboard in dynamics can be seen behind the link 
 [Analysis of the Users Cohort who performed the Welcome action for the first time during June 2023 (1).pdf](https://github.com/user-attachments/files/18230582/Analysis.of.the.Users.Cohort.who.performed.the.Welcome.action.for.the.first.time.during.June.2023.1.pdf)
+
 https://app.amplitude.com/analytics/demo/dashboard/2seyex6e?source=copy+url
 
 
