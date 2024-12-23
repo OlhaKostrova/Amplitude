@@ -12,8 +12,16 @@ The number of users who performed the 'Welcome' action for the first time during
 
 Based on this cohort, I created the following visualisations:
 
-- User onboarding funnel in the order Welcome - User Sign Up - Main Landing Screen - Search Song or Video - Play Song or Video, segmented by platforms iOS and Android
+- User onboarding funnel in the order Welcome - User Sign Up - Main Landing Screen - Search Song or Video - Play Song or Video, segmented by platforms iOS and Android.
 From this funnel, you can see that more than half of the users who performed the 'Welcome' action for the first time performed the 'Play Song or Video' action, so the conversion to the 'Play Song or Video' action on the iOS platform was 52.3% and 59% on the Android platform.
 
 ![image](https://github.com/user-attachments/assets/6779d61b-ade2-4fb5-980b-f15a7b3d139a)
+
+- Line graph comparing conversion to onboarding funnel passage per day by iOS and Android platforms.
+This graph clearly shows a drop in conversion from the onboarding funnel on weekends, especially on Saturdays, from 20 to 30 %.
+
+![image](https://github.com/user-attachments/assets/3203cb63-cc9d-4177-a584-a587d7e4bac1)
+
+
+
 
