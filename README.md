@@ -29,9 +29,12 @@ It may be assumed that the time it takes users to go through the onboarding funn
 
 ![image](https://github.com/user-attachments/assets/830304aa-c6fe-4c9f-b238-2040762205fe)
 
-- Explored the dynamics of changes in the number of users who play Play Song or Video and users who play any active event per day.
+- Explored the dynamics of changes in the number of users who perform Play Song or Video and users who play Any Active event per day.
+This graph shows a positive trend in the number of users who perform Play Song or Video and users who perform Any Active event.
+The number of users who performed Any Active event from 1 June to 30 June increased by 33.2k, which is 1000%, and the number of users who performed Play Song or Video during the same period increased by 29.1k, which is 1000%.
 
-![image](https://github.com/user-attachments/assets/d06c2d50-085f-42d7-a2e9-b2790a9ec904)
+![image](https://github.com/user-attachments/assets/4bdb72f6-68d6-4625-9fca-aa3a1d2aea36)
+
 
 
 
