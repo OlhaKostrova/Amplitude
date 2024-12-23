@@ -47,7 +47,10 @@ In conclusion, the retention rate is quite good, as it is not close to zero, and
 
 ![image](https://github.com/user-attachments/assets/22472f19-0f37-437f-b757-ab55c427540b)
 
-The dashboard in dynamics can be seen behind the link https://app.amplitude.com/analytics/demo/dashboard/2seyex6e?source=copy+url
+[Analysis of the Users Cohort who performed the Welcome action for the first time during June 2023 (1).pdf](https://github.com/user-attachments/files/18230582/Analysis.of.the.Users.Cohort.who.performed.the.Welcome.action.for.the.first.time.during.June.2023.1.pdf)
+
+The dashboard in dynamics can be seen behind the link 
+https://app.amplitude.com/analytics/demo/dashboard/2seyex6e?source=copy+url
 
 
 
