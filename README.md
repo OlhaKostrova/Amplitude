@@ -41,10 +41,13 @@ Despite the fact that users spend less time onboarding on weekends, they also in
 
 ![image](https://github.com/user-attachments/assets/d4de8fef-1b8f-4c0f-9edf-4fbdda53f706)
 
-- The Bar Chart shows the Retention of users from the 'Welcome' event to 'Any Active event' and 'Play Song or Video'. 
+- The Bar Chart shows the Retention of users from the 'Welcome' event to 'Any Active event' and 'Play Song or Video' indicates what percentage of users returned and performed Any Actine Event or Play Song or Video again.
+By the end of the month, it can be seen that the Retention for 'Any Active event' is 37.3%, and the Retention for 'Play Song or Video' is 37.1%.
+In conclusion, the retention rate is quite good, as it is not close to zero, and indicates that users are indeed retained.
 
 ![image](https://github.com/user-attachments/assets/22472f19-0f37-437f-b757-ab55c427540b)
 
+The dashboard in dynamics can be seen behind the link https://app.amplitude.com/analytics/demo/dashboard/2seyex6e?source=copy+url
 
 
 
