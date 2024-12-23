@@ -3,7 +3,7 @@ Analysis of the Users Cohort who performed the Welcome action for the first time
 
 First of all, a cohort of users was created for this project, with the following parameters:
 Country: USA
-Platform: iOS or Android
+Platform: iOS and Android
 Using the historical count, select the users who performed the 'Welcome' action for the first time during June 2023. 
 
 The number of users who performed the 'Welcome' action for the first time during June 2023 was 64,049 users.
